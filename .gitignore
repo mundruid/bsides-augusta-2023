@@ -2,3 +2,5 @@
 .venv
 .env
 *.pkl
+*.html
+tmp
