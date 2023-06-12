@@ -86,6 +86,7 @@ PyYAML==6.0
 pyzmq==25.1.0
 qtconsole==5.4.3
 QtPy==2.3.1
+regex==2023.6.3
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rich==12.6.0
@@ -116,3 +117,4 @@ webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.5.2
 widgetsnbextension==4.0.7
+xgboost==1.7.5
