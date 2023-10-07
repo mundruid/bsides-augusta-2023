@@ -1,5 +1,7 @@
 # bsides-augusta-2023
 
+[Slides from BSides Augusta 2023](https://docs.google.com/presentation/d/1sQWxwAkeKHxgaZoeX9X1Zc57NrOF0mFnBkl9ys9ndUI/edit?usp=sharing)
+
 This repository includes a full example of the data processing cycle that includes:
 
 - Reading, cleaning, and pre-processing raw data,
